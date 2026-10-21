@@ -33,7 +33,6 @@ By the end of the course, participants will be able to:
 - Analyze panel data using fixed and random effects models.
 - Understand the logic of experimental and quasi-experimental designs.
 - Critically assess identification strategies in published research.
-- *[Learning objectives for Module V to be added]*
 
 ---
 
