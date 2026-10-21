@@ -195,11 +195,6 @@ Replication data: available on the [journal website](https://journals.sagepub.co
 
 ## Logistics
 
-### Assessment
-
-- Problem sets (60%)
-- Final empirical mini-project (40%)
-
 ### Software
 
 All empirical exercises will be conducted in **R**. Code is written with an AI coding agent, **OpenCode** ([opencode.ai/download](https://opencode.ai/download)), an open-source agent available as a desktop app, in the terminal, or as an editor extension. OpenCode is free and comes with free models; participants with access to a commercial model (Claude, GPT, Gemini, or others) can connect it instead.
