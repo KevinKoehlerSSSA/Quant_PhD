@@ -1,6 +1,6 @@
 # Quantitative Methods
 
-**PhD Programme, Sant'Anna School of Advanced Studies (DIRPOLIS Institute) · AY 2026/27**
+**PhD Human Rights, Global Politics, and International Studies · Sant'Anna School of Advanced Studies · AY 2026/27**
 
 | Instructor | Email |
 |---|---|
