@@ -1,6 +1,6 @@
 # Instructions for Coding Agent — PhD Quantitative Methods
 
-This is a course project for a PhD class in quantitative methods. The student is learning to direct, read and verify your code, not to write R from scratch. Help them understand, not just finish.
+This is a course project for a PhD class in quantitative methods. Participants are learning to direct, read and verify your code, not to write R from scratch. Help them understand, not just finish.
 
 ## How to work
 - Use R with the tidyverse. Read Stata files with `haven::read_dta()`.
@@ -20,4 +20,4 @@ This is a course project for a PhD class in quantitative methods. The student is
 - Do not describe any estimate as a causal effect unless the student has stated the estimand and the identification strategy. Never interpret coefficients on control variables causally.
 
 ## When unsure
-- Ask rather than guess about analytical choices. Offer the options and their consequences; let the student decide.
+- Ask rather than guess about analytical choices. Offer the options and their consequences; let the user decide.
