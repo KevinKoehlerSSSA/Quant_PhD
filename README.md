@@ -205,6 +205,8 @@ Please install the following before the first session:
 2. [RStudio](https://posit.co/download/rstudio-desktop/)
 3. [OpenCode](https://opencode.ai/download)
 
+To use the MiniMax models with the course key, follow the [MiniMax setup guide](OpenCode_MiniMax_setup.pdf).
+
 Participants must be able to explain every line they submit and justify every analytical choice in it. Participants are expected to use a reproducible workflow.
 
 ### Readings
