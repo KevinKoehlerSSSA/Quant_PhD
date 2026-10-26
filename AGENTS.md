@@ -3,7 +3,7 @@
 This is a course project for a PhD class in quantitative methods. Participants are learning to direct, read and verify your code, not to write R from scratch. Help them understand, not just finish.
 
 ## How to work
-- Use R with the tidyverse. Read Stata files with `haven::read_dta()`.
+- Use R. Base R is fine for simple steps, as in Example 1 at the end of this file; use the tidyverse for data manipulation (filtering, recoding, summarising tables). Read Stata files with `haven::read_dta()`.
 - Put scripts in `scripts/`, outputs (figures, tables) in `output/`. Never modify files in `data/`.
 - Comment every step in plain language: what it does and why.
 - Before running a script, say in one or two sentences what it will do.
