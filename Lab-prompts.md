@@ -97,21 +97,14 @@ Write scripts/lab_se.R. Treat the observed values of unvoting in data_2011-07-26
 3. Does four times the sample halve the spread? Compare with `sd(gh$unvoting, na.rm = TRUE) / sqrt(40)`. If they differ, explain why before calling it a bug.
 4. Are the averages centred on the population average (34.6)?
 
-### Lab B: inference on real data
+### After the session: annotated scripts and a new AGENTS.md
 
-```text
-Write scripts/lab_inference.R. Using data_2011-07-26.dta: (1) average unvoting with a 95% confidence interval; (2) test whether it differs from 50; (3) compare pos1 between European and other states; (4) compare unvoting between Article 98 signers and non-signers, for all states, then separately for ICC members and non-members. Report estimate, interval and p-value each time. Run it.
-```
+**Annotated Lab A scripts.** Three of you sent in your Lab A scripts. Each one is annotated line by line: what every line does, points to check (red) and things done well (green). Click to read them in your browser (or download the `.html` files from this repository and open them locally):
 
-**Verify:**
+- [lab_se_Ikram_annotated.html](https://htmlpreview.github.io/?https://github.com/KevinKoehlerSSSA/Quant_PhD/blob/main/lab_se_Ikram_annotated.html)
+- [lab_se_Samuele_annotated.html](https://htmlpreview.github.io/?https://github.com/KevinKoehlerSSSA/Quant_PhD/blob/main/lab_se_Samuele_annotated.html)
+- [lab_se_Ksenia_annotated.html](https://htmlpreview.github.io/?https://github.com/KevinKoehlerSSSA/Quant_PhD/blob/main/lab_se_Ksenia_annotated.html)
 
-1. Rebuild one interval yourself: the average plus or minus `qt(0.975, n - 1)` times the standard error. Does it match the agent's?
-2. How many states are in each group? Who dropped out?
-3. In (4), what happens to the gap when you split by ICC membership? Which number would you report, and is any of them an *effect*?
-4. Did the agent call anything a cause? Check against `AGENTS.md`.
+Read them side by side: the same prompt produced three different scripts. Two drew states without replacement, one with replacement, and that is why their spreads at n = 40 differ from `sd/sqrt(n)` in different ways.
 
-**Optional:**
-
-```text
-Simulate 5,000 comparisons of two groups of 20 drawn from the same normal distribution, test each with a t-test, and report how often p < 0.05. Then repeat with five outcome variables per comparison and report how often at least one of them has p < 0.05.
-```
+**New AGENTS.md.** The scripts were far more complicated than the task. The updated [AGENTS.md](AGENTS.md) tells the agent to write simple code: no functions of its own, no loops over variables or settings, no lists, one block per variable, plain output and short comments. It ends with two complete example scripts, one to imitate and one to avoid. Download it, replace the copy in your project folder, and type `/new` so OpenCode reads it.
