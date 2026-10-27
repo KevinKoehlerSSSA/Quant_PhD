@@ -99,12 +99,13 @@ Write scripts/lab_se.R. Treat the observed values of unvoting in data_2011-07-26
 
 ### After the session: annotated scripts and a new AGENTS.md
 
-**Annotated Lab A scripts.** Three of you sent in your Lab A scripts. Each one is annotated line by line: what every line does, points to check (red) and things done well (green). Click to read them in your browser (or download the `.html` files from this repository and open them locally):
+**Annotated Lab A scripts.** Four of you sent in your Lab A scripts. Each one is annotated line by line: what every line does, points to check (red) and things done well (green). Click to read them in your browser (or download the `.html` files from this repository and open them locally):
 
 - [lab_se_Ikram_annotated.html](https://htmlpreview.github.io/?https://github.com/KevinKoehlerSSSA/Quant_PhD/blob/main/lab_se_Ikram_annotated.html)
 - [lab_se_Samuele_annotated.html](https://htmlpreview.github.io/?https://github.com/KevinKoehlerSSSA/Quant_PhD/blob/main/lab_se_Samuele_annotated.html)
 - [lab_se_Ksenia_annotated.html](https://htmlpreview.github.io/?https://github.com/KevinKoehlerSSSA/Quant_PhD/blob/main/lab_se_Ksenia_annotated.html)
+- [lab_se_Matilde_annotated.html](https://htmlpreview.github.io/?https://github.com/KevinKoehlerSSSA/Quant_PhD/blob/main/lab_se_Matilde_annotated.html)
 
-Read them side by side: the same prompt produced three different scripts. Two drew states without replacement, one with replacement, and that is why their spreads at n = 40 differ from `sd/sqrt(n)` in different ways.
+Read them side by side: the same prompt produced four different scripts. Two drew states without replacement, two with replacement, and that is why their spreads at n = 40 differ from `sd/sqrt(n)` in different ways.
 
 **New AGENTS.md.** The scripts were far more complicated than the task. The updated [AGENTS.md](AGENTS.md) tells the agent to write simple code: no functions of its own, no loops over variables or settings, no lists, one block per variable, plain output and short comments. It ends with two complete example scripts, one to imitate and one to avoid. Download it, replace the copy in your project folder, and type `/new` so OpenCode reads it.
