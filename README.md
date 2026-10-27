@@ -61,6 +61,11 @@ By the end of the course, participants will be able to:
 - Keele, Stevenson & Elwert (2020).
 - Dowding & Miller (2026).
 
+**Materials**
+
+- [Slides session 1](Session-01-plain.pdf)
+- [Lab prompts](Lab-prompts.md)
+
 ### Session 2: Hypothesis Testing and Confidence Intervals
 
 **Topics**
@@ -75,6 +80,13 @@ By the end of the course, participants will be able to:
 
 - Dean & Illowsky (2018), Chapters 8–10.
 - Imai (2017), Chapter 7.
+
+**Materials**
+
+- [Slides session 2](Session-02-plain.pdf)
+- [Lab prompts](Lab-prompts.md#session-2-confidence-intervals-and-hypothesis-tests)
+- Annotated Lab A scripts (line-by-line explanations of three submitted scripts): [Ikram](https://htmlpreview.github.io/?https://github.com/KevinKoehlerSSSA/Quant_PhD/blob/main/lab_se_Ikram_annotated.html), [Samuele](https://htmlpreview.github.io/?https://github.com/KevinKoehlerSSSA/Quant_PhD/blob/main/lab_se_Samuele_annotated.html), [Ksenia](https://htmlpreview.github.io/?https://github.com/KevinKoehlerSSSA/Quant_PhD/blob/main/lab_se_Ksenia_annotated.html)
+- [Updated AGENTS.md](AGENTS.md): replace the copy in your project folder and type `/new`
 
 ---
 
