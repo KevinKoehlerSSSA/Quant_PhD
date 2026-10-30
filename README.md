@@ -113,6 +113,10 @@ Goldsmith, Benjamin E., and Yusaku Horiuchi. 2012. "In Search of Soft Power: Doe
 
 Replication data: [github.com/joshuaalley/cross-sectional-ols](https://github.com/joshuaalley/cross-sectional-ols)
 
+**Materials**
+
+- [Slides session 3](Session-03-plain.pdf)
+
 ### Session 4: Binary Outcomes
 
 **Topics**
