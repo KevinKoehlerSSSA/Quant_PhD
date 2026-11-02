@@ -2,6 +2,8 @@
 
 **PhD Human Rights, Global Politics, and International Studies · Sant'Anna School of Advanced Studies · AY 2026/27**
 
+**[Course reader](Course-Reader.pdf)**: Sessions 1–3 in plain language (identification, potential outcomes, the sampling distribution, the central limit theorem, standard errors, confidence intervals, tests, and regression), using Goldsmith & Horiuchi (2012) throughout.
+
 | Instructor | Email |
 |---|---|
 | Prof. Kevin Koehler | kevin.koehler@santannapisa.it |
