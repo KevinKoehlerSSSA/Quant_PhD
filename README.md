@@ -2,7 +2,7 @@
 
 **PhD Human Rights, Global Politics, and International Studies · Sant'Anna School of Advanced Studies · AY 2026/27**
 
-**[Course reader](Course-Reader.pdf)**: Sessions 1–3 in plain language (identification, potential outcomes, the sampling distribution, the central limit theorem, standard errors, confidence intervals, tests, and regression), using Goldsmith & Horiuchi (2012) throughout.
+**[Course reader](Course-Reader.pdf)**: the main reading for the course, in plain language, using Goldsmith & Horiuchi (2012) throughout. It currently covers Sessions 1–5 (identification, inference, regression, and logistic regression); chapters for later sessions will be added.
 
 | Instructor | Email |
 |---|---|
@@ -38,9 +38,34 @@ By the end of the course, participants will be able to:
 
 ---
 
+## Schedule
+
+| Session | Date | Time | Room | Topic |
+|---|---|---|---|---|
+| 1 | Wed 21 Oct 2026 | 11:00–13:00 | Palazzo Pilo Boyl, Aula 3 | Causal identification and inference |
+| 2 | Fri 23 Oct 2026 | 11:00–13:00 | Palazzo Pilo Boyl, Aula 1 | Hypothesis tests and confidence intervals |
+| 3 | Fri 30 Oct 2026 | 11:00–13:00 | Palazzo Pilo Boyl, Aula 1 | Linear regression (OLS) I |
+| 4 | Tue 3 Nov 2026 | 11:00–13:00 | Palazzo Pilo Boyl, Aula 2 | Linear regression (OLS) II |
+| 5 | Tue 17 Nov 2026 | 11:00–13:00 | Palazzo Pilo Boyl, Aula 2 | Binary outcomes |
+| 6 | Tue 24 Nov 2026 | 14:00–16:00 | Sede Centrale, Aula 2 | Fixed and random effects |
+| 7 | Tue 24 Nov 2026 | 16:00–18:00 | Palazzo via Maffi, Aula 3 EMbeDS | Dynamic panels and time dependence |
+| 8 | Tue 1 Dec 2026 | 14:00–16:00 | Sede Centrale, Aula 2 | Matching and difference-in-differences |
+| 9 | Wed 9 Dec 2026 (to be confirmed) | 11:00–13:00 | To be announced | Quantitative approaches in International Law I |
+| 10 | Wed 16 Dec 2026 (to be confirmed) | 11:00–13:00 | To be announced | Quantitative approaches in International Law II |
+
+Sessions 6 and 7 are back to back in two different buildings.
+
+## Readings
+
+The **[course reader](Course-Reader.pdf)** is the main reading for each session. It explains the material in plain language and uses one example throughout, Goldsmith & Horiuchi (2012). The page numbers below refer to the reader. The other readings listed for each session are background: read them to go deeper or to see the same material in the language of the field. Chapters of the reader for Sessions 6–8 will be added as the course goes on.
+
+---
+
 ## Module I: Fundamentals of Statistical Reasoning
 
 ### Session 1: Causal Identification and Inference
+
+*Wed 21 Oct 2026, 11:00–13:00, Palazzo Pilo Boyl, Aula 3*
 
 **Topics**
 
@@ -52,14 +77,15 @@ By the end of the course, participants will be able to:
 - Central Limit Theorem (intuition)
 - Working with an AI coding agent: specify, run, verify
 
-**Required readings**
+**Main reading**
+
+- [Course reader](Course-Reader.pdf): How to use this guide, Section 1 and Part I (Identification), plus Sections 5–6 of Part II (pp. 5–19).
+
+**Background readings**
 
 - Keele (2015), Sections 1–3.
 - Dean & Illowsky (2018), Chapters 3–7.
 - Imai (2017), Chapter 6.
-
-**Recommended readings**
-
 - Keele, Stevenson & Elwert (2020).
 - Dowding & Miller (2026).
 
@@ -70,6 +96,8 @@ By the end of the course, participants will be able to:
 
 ### Session 2: Hypothesis Testing and Confidence Intervals
 
+*Fri 23 Oct 2026, 11:00–13:00, Palazzo Pilo Boyl, Aula 1*
+
 **Topics**
 
 - Sampling distributions
@@ -78,7 +106,11 @@ By the end of the course, participants will be able to:
 - Hypothesis testing
 - Type I and Type II errors
 
-**Required readings**
+**Main reading**
+
+- [Course reader](Course-Reader.pdf): Part II (Inference), Sections 7–10 (pp. 20–31).
+
+**Background readings**
 
 - Dean & Illowsky (2018), Chapters 8–10.
 - Imai (2017), Chapter 7.
@@ -94,17 +126,21 @@ By the end of the course, participants will be able to:
 
 ## Module II: Regression
 
-### Session 3: Linear Regression (OLS)
+### Session 3: Linear Regression (OLS) I
+
+*Fri 30 Oct 2026, 11:00–13:00, Palazzo Pilo Boyl, Aula 1*
 
 **Topics**
 
 - OLS as conditional expectation
 - Interpretation of coefficients
-- Assumptions of OLS
-- Omitted variable bias
-- Diagnostics
+- The sampling distribution of the slope
 
-**Required readings**
+**Main reading**
+
+- [Course reader](Course-Reader.pdf): Part III (Regression), Sections 11–12 (pp. 32–36).
+
+**Background readings**
 
 - Dean & Illowsky (2018), Chapter 12.
 - Imai (2017), Chapter 4.
@@ -119,7 +155,29 @@ Replication data: [github.com/joshuaalley/cross-sectional-ols](https://github.co
 
 - [Slides session 3](Session-03-plain.pdf)
 
-### Session 4: Binary Outcomes
+### Session 4: Linear Regression (OLS) II
+
+*Tue 3 Nov 2026, 11:00–13:00, Palazzo Pilo Boyl, Aula 2*
+
+**Topics**
+
+- Holding other things constant: multiple regression and controls
+- Assumptions of OLS, sorted into identification and inference problems
+- Omitted variable bias
+- Diagnostics
+
+**Main reading**
+
+- [Course reader](Course-Reader.pdf): Part III (Regression), Sections 13–18 (pp. 37–44).
+
+**Background readings**
+
+- Dean & Illowsky (2018), Chapter 12.
+- Imai (2017), Chapter 4.
+
+### Session 5: Binary Outcomes
+
+*Tue 17 Nov 2026, 11:00–13:00, Palazzo Pilo Boyl, Aula 2*
 
 **Topics**
 
@@ -127,7 +185,11 @@ Replication data: [github.com/joshuaalley/cross-sectional-ols](https://github.co
 - Logistic regression
 - Interpretation of log-odds and marginal effects
 
-**Required readings**
+**Main reading**
+
+- [Course reader](Course-Reader.pdf): Part IV (Logistic regression), Sections 19–27 (pp. 44–58).
+
+**Background readings**
 
 - Menard (2008), Chapters 1–3.
 - Kennedy & Waggoner (2021), Chapter 7 (Binary Response Models).
@@ -142,7 +204,9 @@ Replication data: available on the [journal website](https://journals.sagepub.co
 
 ## Module III: Panel Data
 
-### Session 5: Fixed Effects and Random Effects
+### Session 6: Fixed Effects and Random Effects
+
+*Tue 24 Nov 2026, 14:00–16:00, Sede Centrale, Aula 2*
 
 **Topics**
 
@@ -152,11 +216,17 @@ Replication data: available on the [journal website](https://journals.sagepub.co
 - Random effects
 - Hausman logic
 
-**Required readings**
+**Main reading**
+
+- Course reader: chapter on panel data (to be added).
+
+**Background readings**
 
 - Frees (2004), Chapters 1–3.
 
-### Session 6: Dynamic Panels and Time Dependence
+### Session 7: Dynamic Panels and Time Dependence
+
+*Tue 24 Nov 2026, 16:00–18:00, Palazzo via Maffi, Aula 3 EMbeDS*
 
 **Topics**
 
@@ -165,7 +235,11 @@ Replication data: available on the [journal website](https://journals.sagepub.co
 - Autocorrelation in panels
 - Brief introduction to dynamic panel bias
 
-**Required readings**
+**Main reading**
+
+- Course reader: chapter on dynamic panels (to be added).
+
+**Background readings**
 
 - Frees (2004), Chapter 8.
 
@@ -173,31 +247,25 @@ Replication data: available on the [journal website](https://journals.sagepub.co
 
 ## Module IV: Causal Inference
 
-### Session 7: Identification
-
-**Topics**
-
-- Potential outcomes framework
-- Identification logic
-- Causal diagrams and back-door criteria
-- Average Treatment Effects (ATE/ATT)
-
-**Required readings**
-
-- Huntington-Klein (2025), Chapters 5–8.
-
 ### Session 8: Matching and Difference-in-Differences
 
+*Tue 1 Dec 2026, 14:00–16:00, Sede Centrale, Aula 2*
+
 **Topics**
 
+- Back to identification: potential outcomes, causal diagrams and back-door criteria, ATE/ATT
 - Matching as design tool (propensity scores; weighting)
 - Counterfactual logic in observational data
 - Difference-in-Differences intuition and assumptions
 - Event-study visualization of dynamic treatment effects
 
-**Required readings**
+**Main reading**
 
-- Huntington-Klein (2025), Chapters 14 and 18.
+- Course reader: Part I (Identification, pp. 7–15) as a refresher, plus a chapter on matching and difference-in-differences (to be added).
+
+**Background readings**
+
+- Huntington-Klein (2025), Chapters 5–8, 14 and 18.
 
 ---
 
@@ -207,7 +275,11 @@ Replication data: available on the [journal website](https://journals.sagepub.co
 
 ### Session 9: *To be announced*
 
+*Wed 9 Dec 2026 (to be confirmed), 11:00–13:00*
+
 ### Session 10: *To be announced*
+
+*Wed 16 Dec 2026 (to be confirmed), 11:00–13:00*
 
 ---
 
