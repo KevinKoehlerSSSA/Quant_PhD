@@ -193,12 +193,13 @@ Replication data: [github.com/joshuaalley/cross-sectional-ols](https://github.co
 
 - Menard (2008), Chapters 1–3.
 - Kennedy & Waggoner (2021), Chapter 7 (Binary Response Models).
+- De Bruin, Erica. 2018. "Preventing Coups d'état: How Counterbalancing Works." *Journal of Conflict Resolution* 62 (7): 1433–58. [doi:10.1177/0022002717692652](https://doi.org/10.1177/0022002717692652). A second published example of logistic regression.
 
-**Replication exercise: logistic regression**
+**Replication exercise: binary outcome models**
 
-De Bruin, Erica. 2018. "Preventing Coups d'état: How Counterbalancing Works." *Journal of Conflict Resolution* 62 (7): 1433–58. [doi:10.1177/0022002717692652](https://doi.org/10.1177/0022002717692652)
+Goldsmith & Horiuchi (2012), Table 3 (Models 1–4): probit models of two yes/no outcomes, whether a country sent troops to Iraq and whether it signed an Article 98 agreement with the United States. We re-estimate them as logit and probit models and compare them with the linear probability model.
 
-Replication data: available on the [journal website](https://journals.sagepub.com/doi/abs/10.1177/0022002717692652).
+Replication data: [github.com/joshuaalley/cross-sectional-ols](https://github.com/joshuaalley/cross-sectional-ols) (the same data as Sessions 3–4).
 
 ---
 
