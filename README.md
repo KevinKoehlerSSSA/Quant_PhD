@@ -225,6 +225,14 @@ Replication data: [github.com/joshuaalley/cross-sectional-ols](https://github.co
 
 - Frees (2004), Chapters 1–3.
 
+**Replication exercise: panel data (Sessions 6 and 7)**
+
+Sullivan, Patricia L., Brock F. Tessman, and Xiaojun Li. 2011. "US Military Aid and Recipient State Cooperation." *Foreign Policy Analysis* 7 (3): 275–294. [doi:10.1111/j.1743-8594.2011.00138.x](https://doi.org/10.1111/j.1743-8594.2011.00138.x)
+
+Replication data: [Harvard Dataverse, doi:10.7910/DVN/4QSK8Z](https://doi.org/10.7910/DVN/4QSK8Z) (dataset, codebook and Stata do-file).
+
+Does US military aid buy cooperation from the countries that receive it? The data cover 184 countries from 1990 to 2004; the estimation sample in Table 2 has 2,204 country-years in 165 countries. In Session 6 we start from a pooled regression of next year's cooperation on military aid and controls, then compare random effects, country fixed effects and two-way (country and year) fixed effects.
+
 ### Session 7: Dynamic Panels and Time Dependence
 
 *Tue 24 Nov 2026, 16:00–18:00, Palazzo via Maffi, Aula 3 EMbeDS*
@@ -244,6 +252,10 @@ Replication data: [github.com/joshuaalley/cross-sectional-ols](https://github.co
 
 - Frees (2004), Chapter 8.
 
+**Replication exercise: panel data, continued**
+
+We continue with Sullivan, Tessman & Li (2011). Their models include last year's cooperation as a regressor alongside country fixed effects, with about 13 years per country. We compare the coefficient on lagged cooperation in pooled and fixed-effects models, and compare heteroskedasticity-robust with country-clustered standard errors. Their published Table 2 estimates also use instrumental variables; we estimate the models without instruments and return to the instruments in Session 8.
+
 ---
 
 ## Module IV: Causal Inference
@@ -259,6 +271,7 @@ Replication data: [github.com/joshuaalley/cross-sectional-ols](https://github.co
 - Counterfactual logic in observational data
 - Difference-in-Differences intuition and assumptions
 - Event-study visualization of dynamic treatment effects
+- Discussion: the instruments in Sullivan, Tessman & Li (2011). What makes an instrument valid?
 
 **Main reading**
 
@@ -311,3 +324,4 @@ Participants must be able to explain every line they submit and justify every an
 - **Keele, Luke, Randolph T. Stevenson, and Felix Elwert.** 2020. "The Causal Interpretation of Estimated Associations in Regression Models." *Political Science Research and Methods* 8 (1): 1–13.
 - **Kennedy, Ryan, and Philip Waggoner.** 2021. *Introduction to R for Social Scientists: A Tidy Programming Approach*. Chapman & Hall/CRC.
 - **Menard, Scott W.** 2008. *Applied Logistic Regression Analysis*. Thousand Oaks, CA: Sage Publications.
+- **Sullivan, Patricia L., Brock F. Tessman, and Xiaojun Li.** 2011. "US Military Aid and Recipient State Cooperation." *Foreign Policy Analysis* 7 (3): 275–294.
