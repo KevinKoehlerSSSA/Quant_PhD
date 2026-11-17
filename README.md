@@ -201,6 +201,10 @@ Goldsmith & Horiuchi (2012), Table 3 (Models 1–4): probit models of two yes/no
 
 Replication data: [github.com/joshuaalley/cross-sectional-ols](https://github.com/joshuaalley/cross-sectional-ols) (the same data as Sessions 3–4).
 
+**Materials**
+
+- [Slides session 5](Session-05-plain.pdf)
+
 ---
 
 ## Module III: Panel Data
