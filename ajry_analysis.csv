@@ -1,0 +1,946 @@
+"country","code","year","democracy","income_lag"
+"Angola","AGO",1980,0,7.643
+"Angola","AGO",1985,0,7.5635
+"Angola","AGO",1990,0,7.5285
+"Angola","AGO",1995,0.1667,7.5738
+"Angola","AGO",2000,0.1667,7.133
+"Albania","ALB",2000,0.5,7.9476
+"Argentina","ARG",1960,0.63,8.8335
+"Argentina","ARG",1965,0.53,8.9054
+"Argentina","ARG",1970,0.1667,9.0162
+"Argentina","ARG",1975,0.8333,9.134
+"Argentina","ARG",1980,0.1667,9.2028
+"Argentina","ARG",1985,0.8333,9.2711
+"Argentina","ARG",1990,1,9.0653
+"Argentina","ARG",1995,0.8333,8.8844
+"Argentina","ARG",2000,1,9.2366
+"Armenia","ARM",2000,0.5,7.7356
+"Antigua","ATG",1990,0.6667,9.2565
+"Antigua","ATG",1995,0.5,9.4746
+"Antigua","ATG",2000,0.5,9.4313
+"Australia","AUS",1960,1,9.2002
+"Australia","AUS",1965,1,9.2779
+"Australia","AUS",1970,1,9.4207
+"Australia","AUS",1975,1,9.6038
+"Australia","AUS",1980,1,9.6575
+"Australia","AUS",1985,1,9.748
+"Australia","AUS",1990,1,9.8202
+"Australia","AUS",1995,1,9.9067
+"Australia","AUS",2000,1,10.012
+"Austria","AUT",1965,0.97,8.9007
+"Austria","AUT",1970,1,9.0804
+"Austria","AUT",1975,1,9.3215
+"Austria","AUT",1980,1,9.4942
+"Austria","AUT",1985,1,9.6666
+"Austria","AUT",1990,1,9.727
+"Austria","AUT",1995,1,9.8941
+"Austria","AUT",2000,1,9.9535
+"Azerbaijan","AZE",2000,0.1667,7.6838
+"Burundi","BDI",1970,0,6.4009
+"Burundi","BDI",1975,0,6.7431
+"Burundi","BDI",1980,0,6.6448
+"Burundi","BDI",1985,0,6.624
+"Burundi","BDI",1990,0,6.6098
+"Burundi","BDI",1995,0.1667,6.7193
+"Burundi","BDI",2000,0.1667,6.5415
+"Belgium","BEL",1960,1,8.8566
+"Belgium","BEL",1965,1,8.9591
+"Belgium","BEL",1970,1,9.1881
+"Belgium","BEL",1975,1,9.4045
+"Belgium","BEL",1980,1,9.5508
+"Belgium","BEL",1985,1,9.7005
+"Belgium","BEL",1990,1,9.7375
+"Belgium","BEL",1995,1,9.8973
+"Belgium","BEL",2000,1,9.9482
+"Benin","BEN",1965,0.25,6.9722
+"Benin","BEN",1970,0,7.0131
+"Benin","BEN",1975,0,6.9979
+"Benin","BEN",1980,0,6.888
+"Benin","BEN",1985,0,6.9078
+"Benin","BEN",1990,0.1667,7.0662
+"Benin","BEN",1995,0.8333,6.9078
+"Benin","BEN",2000,0.8333,6.9715
+"Burkina Faso","BFA",1965,0.07,6.6261
+"Burkina Faso","BFA",1970,0.6667,6.4385
+"Burkina Faso","BFA",1975,0.1667,6.5059
+"Burkina Faso","BFA",1980,0.1667,6.5816
+"Burkina Faso","BFA",1985,0,6.6396
+"Burkina Faso","BFA",1990,0.1667,6.7131
+"Burkina Faso","BFA",1995,0.3333,6.7398
+"Burkina Faso","BFA",2000,0.5,6.7701
+"Bangladesh","BGD",1980,0.6667,6.8705
+"Bangladesh","BGD",1985,0.3333,6.8807
+"Bangladesh","BGD",1990,0.3333,7.0601
+"Bangladesh","BGD",1995,0.6667,7.1532
+"Bangladesh","BGD",2000,0.6667,7.291
+"Bulgaria","BGR",2000,0.8333,8.8188
+"Belarus","BLR",2000,0.1667,8.6168
+"Belize","BLZ",1990,1,8.3903
+"Belize","BLZ",1995,1,8.6386
+"Belize","BLZ",2000,1,8.7352
+"Bolivia","BOL",1960,0.6,7.8692
+"Bolivia","BOL",1965,0.36,7.7638
+"Bolivia","BOL",1970,0.3333,7.8989
+"Bolivia","BOL",1975,0.1667,7.8232
+"Bolivia","BOL",1980,0,7.9802
+"Bolivia","BOL",1985,0.8333,8.024
+"Bolivia","BOL",1990,0.8333,7.8409
+"Bolivia","BOL",1995,0.8333,7.8022
+"Bolivia","BOL",2000,1,7.8688
+"Brazil","BRA",1960,0.91,7.5839
+"Brazil","BRA",1965,0.61,7.7713
+"Brazil","BRA",1970,0.3333,7.9525
+"Brazil","BRA",1975,0.5,8.1942
+"Brazil","BRA",1980,0.5,8.5498
+"Brazil","BRA",1985,0.6667,8.7609
+"Brazil","BRA",1990,0.8333,8.7243
+"Brazil","BRA",1995,0.8333,8.7352
+"Brazil","BRA",2000,0.6667,8.8195
+"Barbados","BRB",1975,1,8.7061
+"Barbados","BRB",1980,1,9.0189
+"Barbados","BRB",1985,1,9.2309
+"Barbados","BRB",1990,1,9.2472
+"Barbados","BRB",1995,1,9.5092
+"Barbados","BRB",2000,1,9.5246
+"Botswana","BWA",1975,0.8333,7.0839
+"Botswana","BWA",1980,0.8333,7.7048
+"Botswana","BWA",1985,0.8333,8.1414
+"Botswana","BWA",1990,1,8.3227
+"Botswana","BWA",1995,0.8333,8.598
+"Botswana","BWA",2000,0.8333,8.6809
+"Central African Republic","CAF",1965,0.34,7.6859
+"Central African Republic","CAF",1970,0,7.6615
+"Central African Republic","CAF",1975,0,7.7143
+"Central African Republic","CAF",1980,0,7.545
+"Central African Republic","CAF",1985,0,7.4938
+"Central African Republic","CAF",1990,0.1667,7.35
+"Central African Republic","CAF",1995,0.6667,7.2314
+"Central African Republic","CAF",2000,0.6667,6.9972
+"Canada","CAN",1960,1,9.2058
+"Canada","CAN",1965,1,9.248
+"Canada","CAN",1970,1,9.429
+"Canada","CAN",1975,1,9.5541
+"Canada","CAN",1980,1,9.7194
+"Canada","CAN",1985,1,9.8514
+"Canada","CAN",1990,1,9.9379
+"Canada","CAN",1995,1,10.0146
+"Canada","CAN",2000,1,10.0409
+"Switzerland","CHE",1960,1,9.4466
+"Switzerland","CHE",1965,1,9.6144
+"Switzerland","CHE",1970,1,9.7818
+"Switzerland","CHE",1975,1,9.9336
+"Switzerland","CHE",1980,1,9.9234
+"Switzerland","CHE",1985,1,10.0133
+"Switzerland","CHE",1990,1,10.0538
+"Switzerland","CHE",1995,1,10.1709
+"Switzerland","CHE",2000,1,10.1079
+"Chile","CHL",1960,1,8.1698
+"Chile","CHL",1965,0.97,8.2566
+"Chile","CHL",1970,1,8.3187
+"Chile","CHL",1975,0,8.4751
+"Chile","CHL",1980,0.1667,8.3361
+"Chile","CHL",1985,0.1667,8.5964
+"Chile","CHL",1990,0.8333,8.5145
+"Chile","CHL",1995,0.8333,8.7238
+"Chile","CHL",2000,0.8333,9.0464
+"China","CHN",1965,0.16,6.5244
+"China","CHN",1970,0,6.6432
+"China","CHN",1975,0,6.7029
+"China","CHN",1980,0.1667,6.8107
+"China","CHN",1985,0.1667,6.9742
+"China","CHN",1990,0,7.2959
+"China","CHN",1995,0,7.488
+"China","CHN",2000,0,7.9438
+"Cote d'Ivoire","CIV",1965,0.41,7.3951
+"Cote d'Ivoire","CIV",1970,0.1667,7.5179
+"Cote d'Ivoire","CIV",1975,0.1667,7.7793
+"Cote d'Ivoire","CIV",1980,0.1667,7.9123
+"Cote d'Ivoire","CIV",1985,0.1667,7.8349
+"Cote d'Ivoire","CIV",1990,0.1667,7.7507
+"Cote d'Ivoire","CIV",1995,0.1667,7.6608
+"Cote d'Ivoire","CIV",2000,0.1667,7.5643
+"Cameroon","CMR",1965,0.56,7.4266
+"Cameroon","CMR",1970,0.1667,7.4367
+"Cameroon","CMR",1975,0.1667,7.3653
+"Cameroon","CMR",1980,0.1667,7.5501
+"Cameroon","CMR",1985,0.1667,7.6621
+"Cameroon","CMR",1990,0.1667,7.9355
+"Cameroon","CMR",1995,0,7.7259
+"Cameroon","CMR",2000,0,7.5254
+"Congo, Rep.","COG",1965,0.46,6.2001
+"Congo, Rep.","COG",1970,0,6.6809
+"Congo, Rep.","COG",1975,0.3333,6.8341
+"Congo, Rep.","COG",1980,0,7.089
+"Congo, Rep.","COG",1985,0,7.3546
+"Congo, Rep.","COG",1990,0.1667,7.6808
+"Congo, Rep.","COG",1995,0.5,7.6462
+"Congo, Rep.","COG",2000,0.1667,7.4733
+"Colombia","COL",1965,0.71,7.836
+"Colombia","COL",1970,0.8333,7.9178
+"Colombia","COL",1975,0.8333,8.0581
+"Colombia","COL",1980,0.8333,8.2201
+"Colombia","COL",1985,0.8333,8.3691
+"Colombia","COL",1990,0.6667,8.377
+"Colombia","COL",1995,0.5,8.504
+"Colombia","COL",2000,0.5,8.6088
+"Comoros","COM",1980,0.5,7.7732
+"Comoros","COM",1985,0.1667,7.6376
+"Comoros","COM",1990,0.3333,7.7232
+"Comoros","COM",1995,0.5,7.6761
+"Comoros","COM",2000,0.1667,7.4173
+"Cape Verde","CPV",1980,0.1667,7.0709
+"Cape Verde","CPV",1985,0.1667,7.5715
+"Cape Verde","CPV",1990,0.3333,7.8356
+"Cape Verde","CPV",1995,1,7.9768
+"Cape Verde","CPV",2000,1,8.0633
+"Costa Rica","CRI",1960,0.91,8.0815
+"Costa Rica","CRI",1965,0.9,8.1536
+"Costa Rica","CRI",1970,1,8.2229
+"Costa Rica","CRI",1975,1,8.3383
+"Costa Rica","CRI",1980,1,8.4835
+"Costa Rica","CRI",1985,1,8.5976
+"Costa Rica","CRI",1990,1,8.4431
+"Costa Rica","CRI",1995,1,8.5034
+"Costa Rica","CRI",2000,1,8.5818
+"Cuba","CUB",1990,0,8.8401
+"Cuba","CUB",1995,0,8.8051
+"Cuba","CUB",2000,0,8.5344
+"Cyprus","CYP",1965,0.87,7.9974
+"Cyprus","CYP",1970,0.8333,8.2907
+"Cyprus","CYP",1975,0.5,8.5707
+"Cyprus","CYP",1980,0.6667,8.4153
+"Cyprus","CYP",1985,1,8.9576
+"Cyprus","CYP",1990,1,9.1662
+"Cyprus","CYP",1995,1,9.4656
+"Cyprus","CYP",2000,1,9.6842
+"Czech Republic","CZE",2000,1,9.4657
+"Germany","DEU",1995,1,9.8814
+"Germany","DEU",2000,1,9.9537
+"Dominica","DMA",1985,0.8333,8.1261
+"Dominica","DMA",1990,0.8333,8.471
+"Dominica","DMA",1995,1,8.6765
+"Dominica","DMA",2000,1,8.7895
+"Denmark","DNK",1960,1,9.0715
+"Denmark","DNK",1965,1,9.3046
+"Denmark","DNK",1970,1,9.5323
+"Denmark","DNK",1975,1,9.6827
+"Denmark","DNK",1980,1,9.7175
+"Denmark","DNK",1985,1,9.8145
+"Denmark","DNK",1990,1,9.9136
+"Denmark","DNK",1995,1,9.9899
+"Denmark","DNK",2000,1,10.0716
+"Dominican Republic","DOM",1960,0.21,7.203
+"Dominican Republic","DOM",1965,0.39,7.4352
+"Dominican Republic","DOM",1970,0.6667,7.4471
+"Dominican Republic","DOM",1975,0.5,7.6098
+"Dominican Republic","DOM",1980,0.8333,7.8549
+"Dominican Republic","DOM",1985,1,7.9783
+"Dominican Republic","DOM",1990,0.8333,8.0361
+"Dominican Republic","DOM",1995,0.5,8.0582
+"Dominican Republic","DOM",2000,0.8333,8.2214
+"Algeria","DZA",1970,0.1667,8.1042
+"Algeria","DZA",1975,0,8.1413
+"Algeria","DZA",1980,0.1667,8.2065
+"Algeria","DZA",1985,0.1667,8.4691
+"Algeria","DZA",1990,0.5,8.6121
+"Algeria","DZA",1995,0.1667,8.5102
+"Algeria","DZA",2000,0.1667,8.4375
+"Ecuador","ECU",1960,0.84,7.5283
+"Ecuador","ECU",1965,0.45,7.6027
+"Ecuador","ECU",1970,0,7.653
+"Ecuador","ECU",1975,0,7.7371
+"Ecuador","ECU",1980,0.8333,8.1607
+"Ecuador","ECU",1985,0.8333,8.3527
+"Ecuador","ECU",1990,0.8333,8.2764
+"Ecuador","ECU",1995,0.8333,8.2359
+"Ecuador","ECU",2000,0.6667,8.2643
+"Egypt, Arab Rep.","EGY",1960,0.37,7.1827
+"Egypt, Arab Rep.","EGY",1965,0.39,7.2982
+"Egypt, Arab Rep.","EGY",1970,0.1667,7.4715
+"Egypt, Arab Rep.","EGY",1975,0.1667,7.5856
+"Egypt, Arab Rep.","EGY",1980,0.3333,7.433
+"Egypt, Arab Rep.","EGY",1985,0.5,7.7931
+"Egypt, Arab Rep.","EGY",1990,0.3333,7.926
+"Egypt, Arab Rep.","EGY",1995,0.1667,8.0846
+"Egypt, Arab Rep.","EGY",2000,0.1667,8.19
+"Spain","ESP",1960,0.11,8.2663
+"Spain","ESP",1965,0.1,8.4417
+"Spain","ESP",1970,0.3333,8.8506
+"Spain","ESP",1975,0.3333,9.1134
+"Spain","ESP",1980,0.8333,9.3235
+"Spain","ESP",1985,1,9.3502
+"Spain","ESP",1990,1,9.3735
+"Spain","ESP",1995,1,9.5803
+"Spain","ESP",2000,1,9.6996
+"Estonia","EST",2000,1,8.9232
+"Ethiopia 1993-","ETH",2000,0.3333,6.2694
+"Ethiopia -pre 1993","ETH_1",1960,0.31,6.259
+"Ethiopia -pre 1993","ETH_1",1965,0.13,6.2667
+"Ethiopia -pre 1993","ETH_1",1970,0.3333,6.3511
+"Ethiopia -pre 1993","ETH_1",1975,0,6.4095
+"Ethiopia -pre 1993","ETH_1",1980,0,6.4384
+"Ethiopia -pre 1993","ETH_1",1985,0,6.4637
+"Ethiopia -pre 1993","ETH_1",1990,0,6.2291
+"Finland","FIN",1960,0.97,8.7737
+"Finland","FIN",1965,0.97,8.9215
+"Finland","FIN",1970,0.8333,9.1287
+"Finland","FIN",1975,0.8333,9.3424
+"Finland","FIN",1980,0.8333,9.5414
+"Finland","FIN",1985,0.8333,9.6518
+"Finland","FIN",1990,1,9.7635
+"Finland","FIN",1995,1,9.9169
+"Finland","FIN",2000,1,9.841
+"Fiji","FJI",1975,0.8333,8.1411
+"Fiji","FJI",1980,0.8333,8.31
+"Fiji","FJI",1985,0.8333,8.4338
+"Fiji","FJI",1990,0.1667,8.3735
+"Fiji","FJI",1995,0.5,8.473
+"Fiji","FJI",2000,0.1667,8.5622
+"France","FRA",1960,0.9,8.7581
+"France","FRA",1965,0.91,8.965
+"France","FRA",1970,1,9.1922
+"France","FRA",1975,1,9.4203
+"France","FRA",1980,1,9.5459
+"France","FRA",1985,1,9.6938
+"France","FRA",1990,1,9.755
+"France","FRA",1995,1,9.9047
+"France","FRA",2000,1,9.9093
+"Gabon","GAB",1965,0.45,8.0153
+"Gabon","GAB",1970,0.1667,8.6008
+"Gabon","GAB",1975,0.1667,8.8331
+"Gabon","GAB",1980,0.1667,8.9559
+"Gabon","GAB",1985,0.1667,9.1115
+"Gabon","GAB",1990,0.5,8.862
+"Gabon","GAB",1995,0.3333,9.1112
+"Gabon","GAB",2000,0.3333,9.0953
+"United Kingdom","GBR",1960,0.99,9.0688
+"United Kingdom","GBR",1965,0.99,9.1772
+"United Kingdom","GBR",1970,1,9.295
+"United Kingdom","GBR",1975,1,9.3997
+"United Kingdom","GBR",1980,1,9.4853
+"United Kingdom","GBR",1985,1,9.5691
+"United Kingdom","GBR",1990,1,9.6671
+"United Kingdom","GBR",1995,1,9.8159
+"United Kingdom","GBR",2000,1,9.8839
+"Ghana","GHA",1965,0.24,6.7642
+"Ghana","GHA",1970,0.1667,6.7122
+"Ghana","GHA",1975,0,7.1562
+"Ghana","GHA",1980,0.8333,7.0788
+"Ghana","GHA",1985,0,7.0934
+"Ghana","GHA",1990,0.1667,7.0285
+"Ghana","GHA",1995,0.5,7.0743
+"Ghana","GHA",2000,0.8333,7.1492
+"Guinea","GIN",1970,0,7.944
+"Guinea","GIN",1975,0,7.7329
+"Guinea","GIN",1980,0,7.7882
+"Guinea","GIN",1985,0,7.8626
+"Guinea","GIN",1990,0.1667,7.7288
+"Guinea","GIN",1995,0.1667,7.7977
+"Guinea","GIN",2000,0.1667,7.8739
+"Gambia, The","GMB",1975,0.8333,7.0144
+"Gambia, The","GMB",1980,0.8333,7.1207
+"Gambia, The","GMB",1985,0.6667,7.1442
+"Gambia, The","GMB",1990,0.8333,7.235
+"Gambia, The","GMB",1995,0,7.1312
+"Gambia, The","GMB",2000,0,6.9701
+"Guinea-Bissau","GNB",1980,0.1667,6.4148
+"Guinea-Bissau","GNB",1985,0.1667,6.1036
+"Guinea-Bissau","GNB",1990,0.1667,6.2946
+"Guinea-Bissau","GNB",1995,0.6667,6.4786
+"Guinea-Bissau","GNB",2000,0.5,6.6625
+"Equatorial Guinea","GNQ",1975,0.1667,8.2317
+"Equatorial Guinea","GNQ",1980,0,8.2853
+"Equatorial Guinea","GNQ",1985,0,7.6891
+"Equatorial Guinea","GNQ",1990,0,7.4495
+"Equatorial Guinea","GNQ",1995,0,7.2576
+"Equatorial Guinea","GNQ",2000,0,7.0431
+"Greece","GRC",1960,0.88,8.079
+"Greece","GRC",1965,0.83,8.3348
+"Greece","GRC",1970,0.1667,8.7204
+"Greece","GRC",1975,0.8333,9.0408
+"Greece","GRC",1980,0.8333,9.2499
+"Greece","GRC",1985,0.8333,9.3805
+"Greece","GRC",1990,1,9.3497
+"Greece","GRC",1995,1,9.3901
+"Greece","GRC",2000,1,9.4313
+"Grenada","GRD",1985,0.8333,8.012
+"Grenada","GRD",1990,0.8333,8.2178
+"Grenada","GRD",1995,1,8.4614
+"Grenada","GRD",2000,1,8.4964
+"Guatemala","GTM",1960,0.7,7.6385
+"Guatemala","GTM",1965,0.4,7.7596
+"Guatemala","GTM",1970,0.8333,7.8454
+"Guatemala","GTM",1975,0.5,8.0034
+"Guatemala","GTM",1980,0.3333,8.1427
+"Guatemala","GTM",1985,0.5,8.3083
+"Guatemala","GTM",1990,0.6667,8.1823
+"Guatemala","GTM",1995,0.5,8.1881
+"Guatemala","GTM",2000,0.6667,8.2353
+"Guyana","GUY",1975,0.5,7.7964
+"Guyana","GUY",1980,0.5,7.8662
+"Guyana","GUY",1985,0.3333,7.9455
+"Guyana","GUY",1990,0.3333,7.7098
+"Guyana","GUY",1995,0.8333,7.6446
+"Guyana","GUY",2000,0.8333,7.8782
+"Honduras","HND",1960,0.7,7.333
+"Honduras","HND",1965,0.5,7.4385
+"Honduras","HND",1970,0,7.4883
+"Honduras","HND",1975,0.1667,7.5288
+"Honduras","HND",1980,0.5,7.593
+"Honduras","HND",1985,0.8333,7.7318
+"Honduras","HND",1990,0.8333,7.7256
+"Honduras","HND",1995,0.6667,7.7072
+"Honduras","HND",2000,0.6667,7.6266
+"Croatia","HRV",2000,0.8333,8.8372
+"Haiti","HTI",1975,0.1667,6.8349
+"Haiti","HTI",1980,0.1667,6.8265
+"Haiti","HTI",1985,0,7.0133
+"Haiti","HTI",1990,0.5,6.875
+"Haiti","HTI",1995,0.3333,6.7638
+"Haiti","HTI",2000,0.1667,7.2889
+"Hungary","HUN",1975,0.1667,8.5889
+"Hungary","HUN",1980,0.1667,8.8458
+"Hungary","HUN",1985,0.3333,9.0114
+"Hungary","HUN",1990,0.8333,9.1221
+"Hungary","HUN",1995,1,9.1698
+"Hungary","HUN",2000,1,9.064
+"Indonesia","IDN",1965,0.1,6.8417
+"Indonesia","IDN",1970,0.3333,6.7977
+"Indonesia","IDN",1975,0.3333,6.9915
+"Indonesia","IDN",1980,0.3333,7.2567
+"Indonesia","IDN",1985,0.3333,7.5473
+"Indonesia","IDN",1990,0.1667,7.7309
+"Indonesia","IDN",1995,0,7.9554
+"Indonesia","IDN",2000,0.6667,8.201
+"India","IND",1960,0.94,6.6526
+"India","IND",1965,0.91,6.7419
+"India","IND",1970,0.8333,6.8319
+"India","IND",1975,0.8333,6.9784
+"India","IND",1980,0.8333,6.9976
+"India","IND",1985,0.8333,7.0551
+"India","IND",1990,0.8333,7.222
+"India","IND",1995,0.5,7.4235
+"India","IND",2000,0.8333,7.5903
+"Ireland","IRL",1960,0.95,8.4714
+"Ireland","IRL",1965,0.97,8.544
+"Ireland","IRL",1970,1,8.6995
+"Ireland","IRL",1975,1,8.8901
+"Ireland","IRL",1980,1,9.0455
+"Ireland","IRL",1985,1,9.2066
+"Ireland","IRL",1990,1,9.2957
+"Ireland","IRL",1995,1,9.558
+"Ireland","IRL",2000,1,9.7565
+"Iran","IRN",1960,0.35,7.4594
+"Iran","IRN",1965,0.45,7.8892
+"Iran","IRN",1970,0.3333,8.1415
+"Iran","IRN",1975,0.1667,8.5612
+"Iran","IRN",1980,0.3333,8.5221
+"Iran","IRN",1985,0.3333,8.3012
+"Iran","IRN",1990,0.1667,8.3974
+"Iran","IRN",1995,0.1667,8.264
+"Iran","IRN",2000,0.1667,8.5198
+"Iceland","ISL",1960,1,8.9662
+"Iceland","ISL",1965,1,9.0143
+"Iceland","ISL",1970,1,9.275
+"Iceland","ISL",1975,1,9.2988
+"Iceland","ISL",1980,1,9.5647
+"Iceland","ISL",1985,1,9.8084
+"Iceland","ISL",1990,1,9.8574
+"Iceland","ISL",1995,1,9.9547
+"Iceland","ISL",2000,1,9.9276
+"Israel","ISR",1960,0.95,8.4252
+"Israel","ISR",1965,0.97,8.62
+"Israel","ISR",1970,0.8333,8.8987
+"Israel","ISR",1975,0.8333,9.0868
+"Israel","ISR",1980,0.8333,9.3056
+"Israel","ISR",1985,0.8333,9.3436
+"Israel","ISR",1990,0.8333,9.3925
+"Israel","ISR",1995,1,9.5198
+"Israel","ISR",2000,1,9.6899
+"Italy","ITA",1960,0.97,8.5886
+"Italy","ITA",1965,0.97,8.8377
+"Italy","ITA",1970,1,9.049
+"Italy","ITA",1975,1,9.332
+"Italy","ITA",1980,1,9.4353
+"Italy","ITA",1985,1,9.6314
+"Italy","ITA",1990,1,9.7043
+"Italy","ITA",1995,1,9.8683
+"Italy","ITA",2000,1,9.918
+"Jamaica","JAM",1970,1,8.0827
+"Jamaica","JAM",1975,1,8.2601
+"Jamaica","JAM",1980,0.8333,8.2846
+"Jamaica","JAM",1985,0.8333,8.1467
+"Jamaica","JAM",1990,0.8333,8.1002
+"Jamaica","JAM",1995,0.8333,8.3188
+"Jamaica","JAM",2000,0.8333,8.2444
+"Jordan","JOR",1960,0.32,7.1779
+"Jordan","JOR",1965,0.31,7.7342
+"Jordan","JOR",1970,0.1667,7.9199
+"Jordan","JOR",1975,0.1667,7.709
+"Jordan","JOR",1980,0.1667,7.7654
+"Jordan","JOR",1985,0.3333,8.3069
+"Jordan","JOR",1990,0.3333,8.4009
+"Jordan","JOR",1995,0.5,8.1488
+"Jordan","JOR",2000,0.5,8.2309
+"Japan","JPN",1960,0.99,8.0587
+"Japan","JPN",1965,1,8.4217
+"Japan","JPN",1970,0.8333,8.8304
+"Japan","JPN",1975,0.8333,9.3478
+"Japan","JPN",1980,1,9.4852
+"Japan","JPN",1985,1,9.6562
+"Japan","JPN",1990,1,9.7837
+"Japan","JPN",1995,1,10.0088
+"Japan","JPN",2000,1,10.0548
+"Kazakhstan","KAZ",2000,0.1667,8.6568
+"Kenya","KEN",1970,0.3333,6.7416
+"Kenya","KEN",1975,0.3333,6.7107
+"Kenya","KEN",1980,0.3333,7.037
+"Kenya","KEN",1985,0.1667,7.1217
+"Kenya","KEN",1990,0.1667,7.0477
+"Kenya","KEN",1995,0,7.1975
+"Kenya","KEN",2000,0.1667,7.1334
+"Kyrgyz Republic","KGZ",2000,0.1667,7.8392
+"Cambodia","KHM",2000,0.1667,7.0764
+"St. Kitts and Nevis","KNA",1990,1,8.7565
+"St. Kitts and Nevis","KNA",1995,1,8.9707
+"St. Kitts and Nevis","KNA",2000,1,9.2865
+"Korea, Rep.","KOR",1960,0.52,7.2853
+"Korea, Rep.","KOR",1965,0.53,7.31
+"Korea, Rep.","KOR",1970,0.3333,7.497
+"Korea, Rep.","KOR",1975,0.3333,7.9068
+"Korea, Rep.","KOR",1980,0.3333,8.2043
+"Korea, Rep.","KOR",1985,0.5,8.4742
+"Korea, Rep.","KOR",1990,0.8333,8.7901
+"Korea, Rep.","KOR",1995,0.8333,9.2056
+"Korea, Rep.","KOR",2000,0.8333,9.5143
+"Lebanon","LBN",1995,0.1667,8.0829
+"Lebanon","LBN",2000,0.1667,8.4614
+"St. Lucia","LCA",1985,1,8.0826
+"St. Lucia","LCA",1990,1,8.1522
+"St. Lucia","LCA",1995,1,8.6378
+"St. Lucia","LCA",2000,1,8.7517
+"Sri Lanka","LKA",1960,0.94,7.1785
+"Sri Lanka","LKA",1965,0.86,7.1952
+"Sri Lanka","LKA",1970,0.8333,7.2336
+"Sri Lanka","LKA",1975,0.8333,7.3508
+"Sri Lanka","LKA",1980,0.8333,7.4139
+"Sri Lanka","LKA",1985,0.6667,7.4897
+"Sri Lanka","LKA",1990,0.5,7.7238
+"Sri Lanka","LKA",1995,0.5,7.8301
+"Sri Lanka","LKA",2000,0.6667,8.028
+"Lesotho","LSO",1975,0.3333,6.7832
+"Lesotho","LSO",1980,0.3333,6.96
+"Lesotho","LSO",1985,0.3333,7.2139
+"Lesotho","LSO",1990,0.1667,7.1793
+"Lesotho","LSO",1995,0.5,7.2221
+"Lesotho","LSO",2000,0.5,7.2072
+"Lithuania","LTU",2000,1,8.7376
+"Luxembourg","LUX",1960,1,9.244
+"Luxembourg","LUX",1965,0.98,9.3677
+"Luxembourg","LUX",1970,0.8333,9.4815
+"Luxembourg","LUX",1975,0.8333,9.6239
+"Luxembourg","LUX",1980,1,9.6967
+"Luxembourg","LUX",1985,1,9.7902
+"Luxembourg","LUX",1990,1,9.9052
+"Luxembourg","LUX",1995,1,10.1996
+"Luxembourg","LUX",2000,1,10.445
+"Latvia","LVA",2000,1,8.6959
+"Morocco","MAR",1965,0.32,7.1763
+"Morocco","MAR",1970,0.3333,7.5852
+"Morocco","MAR",1975,0.3333,7.7233
+"Morocco","MAR",1980,0.5,7.8364
+"Morocco","MAR",1985,0.5,8.0045
+"Morocco","MAR",1990,0.5,8.0518
+"Morocco","MAR",1995,0.3333,8.1748
+"Morocco","MAR",2000,0.3333,8.1406
+"Moldova","MDA",2000,0.8333,7.7744
+"Madagascar","MDG",1965,0.83,7.1225
+"Madagascar","MDG",1970,0.3333,7.0299
+"Madagascar","MDG",1975,0.3333,7.1499
+"Madagascar","MDG",1980,0.1667,7.0747
+"Madagascar","MDG",1985,0.3333,6.991
+"Madagascar","MDG",1990,0.5,6.863
+"Madagascar","MDG",1995,0.8333,6.8039
+"Madagascar","MDG",2000,0.8333,6.7084
+"Mexico","MEX",1965,0.75,8.2891
+"Mexico","MEX",1970,0.3333,8.4692
+"Mexico","MEX",1975,0.5,8.6165
+"Mexico","MEX",1980,0.6667,8.7742
+"Mexico","MEX",1985,0.5,8.9431
+"Mexico","MEX",1990,0.5,8.9455
+"Mexico","MEX",1995,0.5,8.9002
+"Mexico","MEX",2000,0.8333,8.8784
+"Macedonia, FYR","MKD",2000,0.5,8.4163
+"Mali","MLI",1965,0.37,6.8902
+"Mali","MLI",1970,0,6.6578
+"Mali","MLI",1975,0,6.6643
+"Mali","MLI",1980,0,6.7407
+"Mali","MLI",1985,0,6.8506
+"Mali","MLI",1990,0.1667,6.7558
+"Mali","MLI",1995,0.8333,6.6263
+"Mali","MLI",2000,0.8333,6.6991
+"Malta","MLT",2000,1,9.4318
+"Mozambique","MOZ",1980,0,7.4604
+"Mozambique","MOZ",1985,0.1667,7.029
+"Mozambique","MOZ",1990,0.1667,6.6546
+"Mozambique","MOZ",1995,0.6667,6.8307
+"Mozambique","MOZ",2000,0.6667,6.6883
+"Mauritania","MRT",1965,0.59,6.9518
+"Mauritania","MRT",1970,0.1667,7.4388
+"Mauritania","MRT",1975,0.1667,7.5396
+"Mauritania","MRT",1980,0,7.4904
+"Mauritania","MRT",1985,0,7.5452
+"Mauritania","MRT",1990,0,7.3138
+"Mauritania","MRT",1995,0.1667,7.1669
+"Mauritania","MRT",2000,0.1667,7.1395
+"Mauritius","MUS",1975,0.8333,8.2953
+"Mauritius","MUS",1980,0.8333,8.4513
+"Mauritius","MUS",1985,0.8333,8.6587
+"Mauritius","MUS",1990,0.8333,8.8329
+"Mauritius","MUS",1995,1,9.1056
+"Mauritius","MUS",2000,1,9.3352
+"Malawi","MWI",1970,0,6.1748
+"Malawi","MWI",1975,0,6.1207
+"Malawi","MWI",1980,0.1667,6.3893
+"Malawi","MWI",1985,0.1667,6.4828
+"Malawi","MWI",1990,0,6.4769
+"Malawi","MWI",1995,0.8333,6.4307
+"Malawi","MWI",2000,0.6667,6.5113
+"Malaysia","MYS",1965,0.8,7.6587
+"Malaysia","MYS",1970,0.8333,7.8231
+"Malaysia","MYS",1975,0.6667,7.9668
+"Malaysia","MYS",1980,0.6667,8.186
+"Malaysia","MYS",1985,0.6667,8.4922
+"Malaysia","MYS",1990,0.3333,8.6031
+"Malaysia","MYS",1995,0.5,8.7833
+"Malaysia","MYS",2000,0.3333,9.0716
+"Namibia","NAM",1995,0.8333,8.3193
+"Namibia","NAM",2000,0.8333,8.3928
+"Niger","NER",1965,0.16,7.3929
+"Niger","NER",1970,0.1667,7.4665
+"Niger","NER",1975,0,7.3256
+"Niger","NER",1980,0,7.0567
+"Niger","NER",1985,0,7.0323
+"Niger","NER",1990,0.1667,6.7974
+"Niger","NER",1995,0.6667,6.8544
+"Niger","NER",2000,0.5,6.7167
+"Nigeria","NGA",1965,0.49,6.9399
+"Nigeria","NGA",1970,0.1667,6.9694
+"Nigeria","NGA",1975,0.1667,7.0151
+"Nigeria","NGA",1980,0.8333,6.9721
+"Nigeria","NGA",1985,0,7.1026
+"Nigeria","NGA",1990,0.3333,6.935
+"Nigeria","NGA",1995,0,6.9984
+"Nigeria","NGA",2000,0.5,6.8308
+"Nicaragua","NIC",1960,0.49,7.9355
+"Nicaragua","NIC",1965,0.55,7.9645
+"Nicaragua","NIC",1970,0.5,8.2477
+"Nicaragua","NIC",1975,0.3333,8.289
+"Nicaragua","NIC",1980,0.3333,8.3727
+"Nicaragua","NIC",1985,0.3333,8.0192
+"Nicaragua","NIC",1990,0.6667,8.003
+"Nicaragua","NIC",1995,0.5,7.7188
+"Nicaragua","NIC",2000,0.6667,7.5063
+"Netherlands","NLD",1960,1,9.0147
+"Netherlands","NLD",1965,1,9.1319
+"Netherlands","NLD",1970,1,9.3009
+"Netherlands","NLD",1975,1,9.497
+"Netherlands","NLD",1980,1,9.6013
+"Netherlands","NLD",1985,1,9.6941
+"Netherlands","NLD",1990,1,9.7301
+"Netherlands","NLD",1995,1,9.8772
+"Netherlands","NLD",2000,1,9.9466
+"Norway","NOR",1960,1,8.9358
+"Norway","NOR",1965,1,9.0168
+"Norway","NOR",1970,1,9.1904
+"Norway","NOR",1975,1,9.3226
+"Norway","NOR",1980,1,9.5407
+"Norway","NOR",1985,1,9.7302
+"Norway","NOR",1990,1,9.8679
+"Norway","NOR",1995,1,9.9255
+"Norway","NOR",2000,1,10.0813
+"Nepal","NPL",1965,0.29,6.6576
+"Nepal","NPL",1970,0.1667,6.6518
+"Nepal","NPL",1975,0.1667,6.7041
+"Nepal","NPL",1980,0.6667,6.785
+"Nepal","NPL",1985,0.6667,6.7564
+"Nepal","NPL",1990,0.5,6.9083
+"Nepal","NPL",1995,0.6667,6.9911
+"Nepal","NPL",2000,0.6667,7.1249
+"New Zealand","NZL",1960,1,9.2097
+"New Zealand","NZL",1965,1,9.3535
+"New Zealand","NZL",1970,1,9.5116
+"New Zealand","NZL",1975,1,9.5226
+"New Zealand","NZL",1980,1,9.6281
+"New Zealand","NZL",1985,1,9.5636
+"New Zealand","NZL",1990,1,9.6904
+"New Zealand","NZL",1995,1,9.6908
+"New Zealand","NZL",2000,1,9.7654
+"Pakistan-post-1972","PAK",1980,0,6.9269
+"Pakistan-post-1972","PAK",1985,0.5,7.0493
+"Pakistan-post-1972","PAK",1990,0.5,7.2756
+"Pakistan-post-1972","PAK",1995,0.6667,7.4658
+"Pakistan-post-1972","PAK",2000,0.1667,7.5514
+"Pakistan-pre-1972","PAK_1",1965,0.63,6.4507
+"Panama","PAN",1960,0.75,7.6475
+"Panama","PAN",1965,0.77,7.7513
+"Panama","PAN",1970,0,8.0089
+"Panama","PAN",1975,0,8.249
+"Panama","PAN",1980,0.5,8.3463
+"Panama","PAN",1985,0.1667,8.5839
+"Panama","PAN",1990,0.5,8.673
+"Panama","PAN",1995,0.8333,8.5149
+"Panama","PAN",2000,1,8.6349
+"Peru","PER",1960,0.83,8.0244
+"Peru","PER",1965,0.87,8.0797
+"Peru","PER",1970,0,8.3065
+"Peru","PER",1975,0.1667,8.4524
+"Peru","PER",1980,0.8333,8.5829
+"Peru","PER",1985,0.8333,8.4973
+"Peru","PER",1990,0.6667,8.3826
+"Peru","PER",1995,0.3333,8.1844
+"Peru","PER",2000,0.6667,8.3957
+"Philippines","PHL",1960,0.93,7.4413
+"Philippines","PHL",1965,0.93,7.6082
+"Philippines","PHL",1970,0.5,7.7009
+"Philippines","PHL",1975,0.3333,7.7816
+"Philippines","PHL",1980,0.3333,7.9356
+"Philippines","PHL",1985,0.5,8.0983
+"Philippines","PHL",1990,0.6667,7.923
+"Philippines","PHL",1995,0.8333,8.0095
+"Philippines","PHL",2000,0.8333,8.0161
+"Papua New Guinea","PNG",1980,0.8333,8.1843
+"Papua New Guinea","PNG",1985,0.8333,8.0456
+"Papua New Guinea","PNG",1990,0.8333,8.0277
+"Papua New Guinea","PNG",1995,0.8333,7.966
+"Papua New Guinea","PNG",2000,0.8333,8.1773
+"Poland","POL",1985,0.1667,8.8583
+"Poland","POL",1990,0.8333,8.7717
+"Poland","POL",1995,1,8.795
+"Poland","POL",2000,1,8.8931
+"Portugal","PRT",1960,0.42,7.9418
+"Portugal","PRT",1965,0.39,8.14
+"Portugal","PRT",1970,0.3333,8.4234
+"Portugal","PRT",1975,0.3333,8.7477
+"Portugal","PRT",1980,0.8333,8.9144
+"Portugal","PRT",1985,1,9.1098
+"Portugal","PRT",1990,1,9.1283
+"Portugal","PRT",1995,1,9.4179
+"Portugal","PRT",2000,1,9.4747
+"Paraguay","PRY",1960,0.39,7.7851
+"Paraguay","PRY",1965,0.45,7.7938
+"Paraguay","PRY",1970,0.5,7.8513
+"Paraguay","PRY",1975,0.3333,7.9635
+"Paraguay","PRY",1980,0.3333,8.1019
+"Paraguay","PRY",1985,0.3333,8.409
+"Paraguay","PRY",1990,0.5,8.3769
+"Paraguay","PRY",1995,0.5,8.5096
+"Paraguay","PRY",2000,0.5,8.5872
+"Romania","ROM",1965,0.21,6.9455
+"Romania","ROM",1970,0,7.316
+"Romania","ROM",1975,0,7.6285
+"Romania","ROM",1980,0,8.0319
+"Romania","ROM",1985,0,7.664
+"Romania","ROM",1990,0.1667,8.66
+"Romania","ROM",1995,0.5,8.4747
+"Romania","ROM",2000,0.8333,8.4615
+"Russia","RUS",2000,0.3333,8.8784
+"Rwanda","RWA",1970,0,6.6001
+"Rwanda","RWA",1975,0,6.7874
+"Rwanda","RWA",1980,0.1667,6.7525
+"Rwanda","RWA",1985,0.1667,7.0004
+"Rwanda","RWA",1990,0.1667,6.9789
+"Rwanda","RWA",1995,0,6.9721
+"Rwanda","RWA",2000,0,6.6076
+"Senegal","SEN",1975,0.1667,7.3945
+"Senegal","SEN",1980,0.5,7.3624
+"Senegal","SEN",1985,0.6667,7.2876
+"Senegal","SEN",1990,0.5,7.3069
+"Senegal","SEN",1995,0.5,7.3166
+"Senegal","SEN",2000,0.6667,7.284
+"Singapore","SGP",1970,0.3333,8.0348
+"Singapore","SGP",1975,0.3333,8.5714
+"Singapore","SGP",1980,0.3333,8.9722
+"Singapore","SGP",1985,0.5,9.347
+"Singapore","SGP",1990,0.5,9.5125
+"Singapore","SGP",1995,0.3333,9.7944
+"Singapore","SGP",2000,0.3333,10.0276
+"Sierra Leone","SLE",1970,0.5,7.1284
+"Sierra Leone","SLE",1975,0.1667,7.3108
+"Sierra Leone","SLE",1980,0.3333,7.2556
+"Sierra Leone","SLE",1985,0.3333,7.1199
+"Sierra Leone","SLE",1990,0.1667,7.0983
+"Sierra Leone","SLE",1995,0,7.1579
+"Sierra Leone","SLE",2000,0.5,6.7899
+"El Salvador","SLV",1960,0.54,8.0693
+"El Salvador","SLV",1965,0.72,8.1046
+"El Salvador","SLV",1970,0.8333,8.2685
+"El Salvador","SLV",1975,0.8333,8.3286
+"El Salvador","SLV",1980,0.1667,8.403
+"El Salvador","SLV",1985,0.8333,8.333
+"El Salvador","SLV",1990,0.6667,8.1936
+"El Salvador","SLV",1995,0.6667,8.1675
+"El Salvador","SLV",2000,0.8333,8.3381
+"Sao Tome and Principe","STP",1980,0.1667,6.8743
+"Sao Tome and Principe","STP",1985,0,6.8994
+"Sao Tome and Principe","STP",1990,0.3333,7.0542
+"Sao Tome and Principe","STP",1995,1,7.2222
+"Sao Tome and Principe","STP",2000,1,7.1808
+"Slovakia","SVK",2000,1,9.1536
+"Slovenia","SVN",2000,1,9.4516
+"Sweden","SWE",1960,1,9.0833
+"Sweden","SWE",1965,1,9.2271
+"Sweden","SWE",1970,1,9.4476
+"Sweden","SWE",1975,0.8333,9.6043
+"Sweden","SWE",1980,1,9.7084
+"Sweden","SWE",1985,1,9.7506
+"Sweden","SWE",1990,1,9.8369
+"Sweden","SWE",1995,1,9.9421
+"Sweden","SWE",2000,1,9.9377
+"Seychelles","SYC",1985,0.1667,9.0058
+"Seychelles","SYC",1990,0.1667,8.82
+"Seychelles","SYC",1995,0.6667,9.1004
+"Seychelles","SYC",2000,0.6667,9.1381
+"Syrian Arab Republic","SYR",1965,0.2,7.2461
+"Syrian Arab Republic","SYR",1970,0,7.6069
+"Syrian Arab Republic","SYR",1975,0.1667,7.4058
+"Syrian Arab Republic","SYR",1980,0.3333,7.8454
+"Syrian Arab Republic","SYR",1985,0.1667,8.003
+"Syrian Arab Republic","SYR",1990,0,8.0291
+"Syrian Arab Republic","SYR",1995,0,8.0438
+"Syrian Arab Republic","SYR",2000,0,8.275
+"Chad","TCD",1965,0.48,7.1003
+"Chad","TCD",1970,0.1667,7.0943
+"Chad","TCD",1975,0,7.0735
+"Chad","TCD",1980,0.1667,6.9779
+"Chad","TCD",1985,0,7.3985
+"Chad","TCD",1990,0,6.9377
+"Chad","TCD",1995,0.1667,6.8162
+"Chad","TCD",2000,0.1667,6.7963
+"Togo","TGO",1970,0,7.0176
+"Togo","TGO",1975,0,7.2424
+"Togo","TGO",1980,0,7.0543
+"Togo","TGO",1985,0.1667,7.2283
+"Togo","TGO",1990,0.1667,7.1689
+"Togo","TGO",1995,0.1667,7.0847
+"Togo","TGO",2000,0.3333,6.7813
+"Thailand","THA",1960,0.33,6.7002
+"Thailand","THA",1965,0.17,6.995
+"Thailand","THA",1970,0,7.2065
+"Thailand","THA",1975,0.8333,7.508
+"Thailand","THA",1980,0.6667,7.6382
+"Thailand","THA",1985,0.6667,7.9122
+"Thailand","THA",1990,0.8333,8.0924
+"Thailand","THA",1995,0.6667,8.4832
+"Thailand","THA",2000,0.8333,8.8196
+"Trinidad and Tobago","TTO",1970,0.8333,8.6286
+"Trinidad and Tobago","TTO",1975,0.8333,8.792
+"Trinidad and Tobago","TTO",1980,0.8333,8.9008
+"Trinidad and Tobago","TTO",1985,1,9.1688
+"Trinidad and Tobago","TTO",1990,1,9.2036
+"Trinidad and Tobago","TTO",1995,1,9.0785
+"Trinidad and Tobago","TTO",2000,0.8333,9.1268
+"Tunisia","TUN",1970,0.1667,7.684
+"Tunisia","TUN",1975,0.1667,7.8511
+"Tunisia","TUN",1980,0.1667,8.1949
+"Tunisia","TUN",1985,0.3333,8.3811
+"Tunisia","TUN",1990,0.3333,8.4759
+"Tunisia","TUN",1995,0.1667,8.5045
+"Tunisia","TUN",2000,0.1667,8.6149
+"Turkey","TUR",1960,0.59,7.7841
+"Turkey","TUR",1965,0.76,7.8965
+"Turkey","TUR",1970,0.6667,8.0137
+"Turkey","TUR",1975,0.8333,8.1938
+"Turkey","TUR",1980,0.3333,8.3757
+"Turkey","TUR",1985,0.6667,8.3598
+"Turkey","TUR",1990,0.8333,8.4944
+"Turkey","TUR",1995,0.3333,8.6552
+"Turkey","TUR",2000,0.5,8.7179
+"Taiwan","TWN",1970,0.1667,7.5852
+"Taiwan","TWN",1975,0.1667,7.9337
+"Taiwan","TWN",1980,0.3333,8.2732
+"Taiwan","TWN",1985,0.3333,8.6775
+"Taiwan","TWN",1990,0.6667,8.9241
+"Taiwan","TWN",1995,0.6667,9.3039
+"Taiwan","TWN",2000,1,9.6014
+"Tanzania","TZA",1970,0.1667,6.1856
+"Tanzania","TZA",1975,0.1667,6.337
+"Tanzania","TZA",1980,0.1667,6.3596
+"Tanzania","TZA",1985,0.1667,6.4064
+"Tanzania","TZA",1990,0.1667,6.4494
+"Tanzania","TZA",1995,0.3333,6.2019
+"Tanzania","TZA",2000,0.5,6.1467
+"Uganda","UGA",1970,0,6.3656
+"Uganda","UGA",1975,0,6.4094
+"Uganda","UGA",1980,0.3333,6.4253
+"Uganda","UGA",1985,0.3333,6.0937
+"Uganda","UGA",1990,0.1667,6.4742
+"Uganda","UGA",1995,0.3333,6.5312
+"Uganda","UGA",2000,0.1667,6.6928
+"Ukraine","UKR",2000,0.5,8.4863
+"Uruguay","URY",1960,1,8.7607
+"Uruguay","URY",1965,1,8.6783
+"Uruguay","URY",1970,0.6667,8.6222
+"Uruguay","URY",1975,0.3333,8.7211
+"Uruguay","URY",1980,0.3333,8.7797
+"Uruguay","URY",1985,0.8333,8.9906
+"Uruguay","URY",1990,1,8.732
+"Uruguay","URY",1995,0.8333,8.8905
+"Uruguay","URY",2000,1,9.0817
+"United States","USA",1960,0.95,9.3897
+"United States","USA",1965,0.92,9.4151
+"United States","USA",1970,1,9.5946
+"United States","USA",1975,1,9.7021
+"United States","USA",1980,1,9.8004
+"United States","USA",1985,1,9.9681
+"United States","USA",1990,1,10.07
+"United States","USA",1995,1,10.1833
+"United States","USA",2000,1,10.2545
+"Uzbekistan","UZB",2000,0,7.8413
+"St. Vincent and the Grenadines","VCT",1985,0.8333,8.0602
+"St. Vincent and the Grenadines","VCT",1990,1,8.3824
+"St. Vincent and the Grenadines","VCT",1995,0.8333,8.5855
+"St. Vincent and the Grenadines","VCT",2000,0.8333,8.7233
+"Venezuela, RB","VEN",1960,0.72,8.8991
+"Venezuela, RB","VEN",1965,0.73,8.9671
+"Venezuela, RB","VEN",1970,0.8333,9.2036
+"Venezuela, RB","VEN",1975,0.8333,9.2617
+"Venezuela, RB","VEN",1980,1,9.0176
+"Venezuela, RB","VEN",1985,1,8.9831
+"Venezuela, RB","VEN",1990,1,8.8255
+"Venezuela, RB","VEN",1995,0.6667,8.8468
+"Venezuela, RB","VEN",2000,0.6667,8.867
+"Vietnam","VNM",1995,0,7.0833
+"Vietnam","VNM",2000,0,7.3279
+"Yemen","YEM",1995,0.3333,7.003
+"Yemen","YEM",2000,0.3333,6.7753
+"South Africa","ZAF",1960,0.65,8.4231
+"South Africa","ZAF",1965,0.59,8.5095
+"South Africa","ZAF",1970,0.8333,8.6828
+"South Africa","ZAF",1975,0.5,8.8361
+"South Africa","ZAF",1980,0.3333,8.9301
+"South Africa","ZAF",1985,0.3333,8.9809
+"South Africa","ZAF",1990,0.3333,8.9662
+"South Africa","ZAF",1995,1,8.9601
+"South Africa","ZAF",2000,1,8.8849
+"Congo, Dem. Rep.","ZAR",1965,0.38,6.8874
+"Congo, Dem. Rep.","ZAR",1970,0,6.8546
+"Congo, Dem. Rep.","ZAR",1975,0,6.9619
+"Congo, Dem. Rep.","ZAR",1980,0.1667,6.868
+"Congo, Dem. Rep.","ZAR",1985,0,6.584
+"Congo, Dem. Rep.","ZAR",1990,0.1667,6.4663
+"Congo, Dem. Rep.","ZAR",1995,0,6.3498
+"Congo, Dem. Rep.","ZAR",2000,0,5.7739
+"Zambia","ZMB",1970,0.3333,7.2881
+"Zambia","ZMB",1975,0.3333,7.1968
+"Zambia","ZMB",1980,0.3333,7.21
+"Zambia","ZMB",1985,0.3333,7.1221
+"Zambia","ZMB",1990,0.1667,6.9952
+"Zambia","ZMB",1995,0.6667,6.9283
+"Zambia","ZMB",2000,0.3333,6.7024
+"Zimbabwe","ZWE",1975,0.1667,7.6754
+"Zimbabwe","ZWE",1980,0.6667,7.832
+"Zimbabwe","ZWE",1985,0.5,7.8763
+"Zimbabwe","ZWE",1990,0.1667,7.9137
+"Zimbabwe","ZWE",1995,0.3333,7.9773
+"Zimbabwe","ZWE",2000,0.1667,7.8823

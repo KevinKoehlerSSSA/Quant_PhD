@@ -47,8 +47,8 @@ By the end of the course, participants will be able to:
 | 3 | Fri 30 Oct 2026 | 11:00–13:00 | Palazzo Pilo Boyl, Aula 1 | Linear regression (OLS) I |
 | 4 | Tue 3 Nov 2026 | 11:00–13:00 | Palazzo Pilo Boyl, Aula 2 | Linear regression (OLS) II |
 | 5 | Tue 17 Nov 2026 | 11:00–13:00 | Palazzo Pilo Boyl, Aula 2 | Binary outcomes |
-| 6 | Tue 24 Nov 2026 | 14:00–16:00 | Sede Centrale, Aula 2 | Fixed and random effects |
-| 7 | Tue 24 Nov 2026 | 16:00–18:00 | Palazzo via Maffi, Aula 3 EMbeDS | Dynamic panels and time dependence |
+| 6 | Tue 24 Nov 2026 | 14:00–16:00 | Sede Centrale, Aula 2 | Panel data: within and between, pooling |
+| 7 | Tue 24 Nov 2026 | 16:00–18:00 | Palazzo via Maffi, Aula 3 EMbeDS | Multilevel data |
 | 8 | Tue 1 Dec 2026 | 14:00–16:00 | Sede Centrale, Aula 2 | Matching and difference-in-differences |
 | 9 | Wed 9 Dec 2026 (to be confirmed) | 11:00–13:00 | To be announced | Quantitative approaches in International Law I |
 | 10 | Wed 16 Dec 2026 (to be confirmed) | 11:00–13:00 | To be announced | Quantitative approaches in International Law II |
@@ -207,58 +207,45 @@ Replication data: [github.com/joshuaalley/cross-sectional-ols](https://github.co
 
 ---
 
-## Module III: Panel Data
+## Module III: Panel and Multilevel Data
 
-### Session 6: Fixed Effects and Random Effects
+### Sessions 6–7: Panel and Multilevel Data
 
-*Tue 24 Nov 2026, 14:00–16:00, Sede Centrale, Aula 2*
-
-**Topics**
-
-- Structure of panel data
-- Unobserved heterogeneity
-- Fixed effects (within estimator)
-- Random effects
-- Hausman logic
-
-**Main reading**
-
-- Course reader: chapter on panel data (to be added).
-
-**Background readings**
-
-- Frees (2004), Chapters 1–3.
-
-**Replication exercise: panel data (Sessions 6 and 7)**
-
-Sullivan, Patricia L., Brock F. Tessman, and Xiaojun Li. 2011. "US Military Aid and Recipient State Cooperation." *Foreign Policy Analysis* 7 (3): 275–294. [doi:10.1111/j.1743-8594.2011.00138.x](https://doi.org/10.1111/j.1743-8594.2011.00138.x)
-
-Replication data: [Harvard Dataverse, doi:10.7910/DVN/4QSK8Z](https://doi.org/10.7910/DVN/4QSK8Z) (dataset, codebook and Stata do-file).
-
-Does US military aid buy cooperation from the countries that receive it? The data cover 184 countries from 1990 to 2004; the estimation sample in Table 2 has 2,204 country-years in 165 countries. In Session 6 we start from a pooled regression of next year's cooperation on military aid and controls, then compare random effects, country fixed effects and two-way (country and year) fixed effects.
-
-### Session 7: Dynamic Panels and Time Dependence
-
-*Tue 24 Nov 2026, 16:00–18:00, Palazzo via Maffi, Aula 3 EMbeDS*
+*Tue 24 Nov 2026. Session 6: 14:00–16:00, Sede Centrale, Aula 2. Session 7: 16:10–18:00, Palazzo via Maffi, Aula 3 EMbeDS.*
 
 **Topics**
 
-- Lagged dependent variables
-- Serial correlation
-- Autocorrelation in panels
-- Brief introduction to dynamic panel bias
+- Recap: binary outcomes, the linear probability model and logit (Goldsmith & Horiuchi 2012)
+- Why panels: non-independence (a challenge) and within variation (a strength)
+- Within versus between variation
+- Complete pooling (pooled OLS), no pooling (fixed effects) and partial pooling (random effects)
+- From panels to multilevel data: varying intercepts and slopes, shrinkage
 
-**Main reading**
+**Materials**
 
-- Course reader: chapter on dynamic panels (to be added).
+- [Slides sessions 6–7](Session-06-07-plain.pdf)
+- [Lab prompts](Lab-prompts.md#sessions-67-panel-and-multilevel-data)
+- Data (save them in your project's `Data` folder): [ajry_analysis.csv](ajry_analysis.csv) (Lab A), [polls88.csv](polls88.csv) (Lab B), [schools.csv](schools.csv) (invented students-in-schools example, Part 5)
+- Example code: [session67_labA.R](session67_labA.R) (three panel models), [session67_schools.R](session67_schools.R) (complete, no and partial pooling with the schools example), [session67_labB.R](session67_labB.R) (Lab B: three models of the 1988 polls)
+
+**Lab A: three models, one table**
+
+Acemoglu, Daron, Simon Johnson, James A. Robinson, and Pierre Yared. 2008. "Income and Democracy." *American Economic Review* 98 (3): 808–42. [doi:10.1257/aer.98.3.808](https://doi.org/10.1257/aer.98.3.808)
+
+945 country-periods in 150 countries, 1960–2000. Democracy (Freedom House, 0–1) on last period's log GDP per capita: pooled OLS, random effects and country fixed effects, and what each model compares.
+
+**Lab B: what does each state think?**
+
+Gelman, Andrew, and Jennifer Hill. 2007. *Data Analysis Using Regression and Multilevel/Hierarchical Models*. Cambridge University Press, chapter 14. Data from the book's archive: [sites.stat.columbia.edu/gelman/arm/software](https://sites.stat.columbia.edu/gelman/arm/software/) (file election88/polls.subset.dat, the last CBS/New York Times poll before the 1988 presidential election).
+
+2,015 decided respondents in 49 states. Support for Bush on race and sex: complete pooling, no pooling (state fixed effects) and partial pooling (varying state intercepts), and which state estimates to believe.
 
 **Background readings**
 
-- Frees (2004), Chapter 8.
-
-**Replication exercise: panel data, continued**
-
-We continue with Sullivan, Tessman & Li (2011). Their models include last year's cooperation as a regressor alongside country fixed effects, with about 13 years per country. We compare the coefficient on lagged cooperation in pooled and fixed-effects models, and compare heteroskedasticity-robust with country-clustered standard errors. Their published Table 2 estimates also use instrumental variables; we estimate the models without instruments and return to the instruments in Session 8.
+- Frees (2004), Chapters 1–3 and 5.
+- Bell, Andrew, and Kelvyn Jones. 2015. "Explaining Fixed Effects: Random Effects Modeling of Time-Series Cross-Sectional and Panel Data." *Political Science Research and Methods* 3 (1): 133–53.
+- Clark, Tom S., and Drew A. Linzer. 2015. "Should I Use Fixed or Random Effects?" *Political Science Research and Methods* 3 (2): 399–408.
+- Gelman & Hill (2007), Chapters 11–14.
 
 ---
 

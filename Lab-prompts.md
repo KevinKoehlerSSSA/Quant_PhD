@@ -109,3 +109,44 @@ Write scripts/lab_se.R. Treat the observed values of unvoting in data_2011-07-26
 Read them side by side: the same prompt produced four different scripts. Two drew states without replacement, two with replacement, and that is why their spreads at n = 40 differ from `sd/sqrt(n)` in different ways.
 
 **New AGENTS.md.** The scripts were far more complicated than the task. The updated [AGENTS.md](AGENTS.md) tells the agent to write simple code: no functions of its own, no loops over variables or settings, no lists, one block per variable, plain output and short comments. It ends with two complete example scripts, one to imitate and one to avoid. Download it, replace the copy in your project folder, and type `/new` so OpenCode reads it.
+
+---
+
+## Sessions 6–7: Panel and Multilevel Data
+
+Two prepared data files, in this repository (download them into your project's `Data/` folder): `ajry_analysis.csv` (Lab A: Acemoglu, Johnson, Robinson & Yared 2008, "Income and Democracy", 945 country-periods, ready to use) and `polls88.csv` (Lab B: the last CBS/New York Times poll before the 1988 US presidential election, 2,193 respondents in 49 states; Gelman & Hill 2007, ch. 14, data from Gelman's ARM website).
+
+### Lab A: three models, one table
+
+```text
+Write scripts/lab_panel.R. Load Data/ajry_analysis.csv (Acemoglu et al. 2008): one row per country and five-year period; democracy is Freedom House political rights (0-1), income_lag is log GDP per capita in the previous period. Report how much of the variance of democracy and of income_lag lies between countries and how much within countries. Then regress democracy on income_lag three ways (pooled OLS, random effects and country fixed effects) and report the three coefficients in one table. Run it.
+```
+
+**Verify, without asking the agent:**
+
+1. 945 rows, 150 countries? Within share: democracy 27%, income 9%.
+2. Pooled 0.236, random effects 0.184, fixed effects 0.087?
+
+**Explain, in your own words, one sentence each:**
+
+3. What comparison does each model make? Why is RE between the other two, and closer to pooled?
+4. Which number would you report to answer AJRY's question, and what does it mean in words?
+
+### Lab B: three models, one poll (Gelman & Hill 2007, ch. 14)
+
+```text
+Write scripts/lab_multilevel.R. Load Data/polls88.csv (last CBS/NYT poll before the 1988 election; Gelman & Hill 2007, ch. 14): bush (1 Bush, 0 Dukakis, missing = undecided: drop), state, state_abbr, black, female. Report respondents, states, and the fewest and most per state. Fit three logistic regressions of bush on black and female: (1) complete pooling, no state information; (2) no pooling, with state dummies; (3) partial pooling, an intercept varying by state (lme4). One table: black and female with SEs for all three; the SD of the state intercepts in (3). For a non-black man, predicted P(Bush) in VT, UT, MD, NY and TN under each model, with each state's respondents. Run it.
+```
+
+**Replicate (model 3 against the book):**
+
+1. 2,015 respondents, 49 states (2–190 each)?
+2. Intercept 0.45 (0.10); black −1.74 (0.21); female −0.10 (0.10)?
+3. SD of the state intercepts 0.41?
+
+**Compare, in words:**
+
+4. Why does the black coefficient change across the models?
+5. Vermont (2 of 2) and Utah (11 of 11): what does no pooling predict? Look at its standard errors.
+6. Which state estimates would you publish?
+7. When is complete pooling enough?
