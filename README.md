@@ -266,11 +266,15 @@ Gelman, Andrew, and Jennifer Hill. 2007. *Data Analysis Using Regression and Mul
 - Counterfactual logic in observational data
 - Difference-in-Differences intuition and assumptions
 - Event-study visualization of dynamic treatment effects
-- Discussion: the instruments in Sullivan, Tessman & Li (2011). What makes an instrument valid?
+- Replication and critique: Cremaschi, Rettl, Cappelluti & De Vries (2025) on public services and the far right in Italy. Does the control group stand in for the treated?
 
 **Main reading**
 
 - [Course reader](Course-Reader.pdf): Part VII (Difference-in-differences), Sections 44–51 (pp. 88–97), with Part I (Identification, pp. 13–22) as a refresher.
+
+**Replication paper**
+
+- Cremaschi, Rettl, Cappelluti & De Vries (2025), "Geographies of Discontent: Public Service Deprivation and the Rise of the Far Right in Italy." Data: `cremaschi_panel.csv` (prepared from the authors' replication package).
 
 **Background readings**
 
@@ -310,6 +314,7 @@ Participants must be able to explain every line they submit and justify every an
 
 ### Readings
 
+- **Cremaschi, Simone, Paula Rettl, Marco Cappelluti, and Catherine E. De Vries.** 2025. "Geographies of Discontent: Public Service Deprivation and the Rise of the Far Right in Italy." *American Journal of Political Science* 69 (4): 1581–1599. [doi:10.1111/ajps.12936](https://doi.org/10.1111/ajps.12936)
 - **Dean, Susan, and Barbara Illowsky.** 2018. *Introductory Statistics*. OpenStax, Rice University. Free online at [openstax.org](https://openstax.org/details/books/introductory-statistics).
 - **Dowding, Keith, and Charles Miller.** 2026. "Explanatory Pluralism in Political Science." *Journal of Theoretical Politics* 38 (3): 159–176.
 - **Frees, Edward W.** 2004. *Longitudinal and Panel Data: Analysis and Applications in the Social Sciences*. Cambridge University Press.
@@ -319,4 +324,3 @@ Participants must be able to explain every line they submit and justify every an
 - **Keele, Luke, Randolph T. Stevenson, and Felix Elwert.** 2020. "The Causal Interpretation of Estimated Associations in Regression Models." *Political Science Research and Methods* 8 (1): 1–13.
 - **Kennedy, Ryan, and Philip Waggoner.** 2021. *Introduction to R for Social Scientists: A Tidy Programming Approach*. Chapman & Hall/CRC.
 - **Menard, Scott W.** 2008. *Applied Logistic Regression Analysis*. Thousand Oaks, CA: Sage Publications.
-- **Sullivan, Patricia L., Brock F. Tessman, and Xiaojun Li.** 2011. "US Military Aid and Recipient State Cooperation." *Foreign Policy Analysis* 7 (3): 275–294.
