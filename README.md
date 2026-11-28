@@ -276,6 +276,10 @@ Gelman, Andrew, and Jennifer Hill. 2007. *Data Analysis Using Regression and Mul
 
 - Cremaschi, Rettl, Cappelluti & De Vries (2025), "Geographies of Discontent: Public Service Deprivation and the Rise of the Far Right in Italy." Data: `cremaschi_panel.csv` (prepared from the authors' replication package).
 
+**Lab**
+
+- [Session 8 lab](Session-08-Lab.md): step-by-step instructions and prompts for Lab A (replicate the DiD) and Lab B (look at the data).
+
 **Background readings**
 
 - Huntington-Klein (2025), Chapters 5–8, 14 and 18.
