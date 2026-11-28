@@ -193,7 +193,6 @@ Replication data: [github.com/joshuaalley/cross-sectional-ols](https://github.co
 
 - Menard (2008), Chapters 1–3.
 - Kennedy & Waggoner (2021), Chapter 7 (Binary Response Models).
-- De Bruin, Erica. 2018. "Preventing Coups d'état: How Counterbalancing Works." *Journal of Conflict Resolution* 62 (7): 1433–58. [doi:10.1177/0022002717692652](https://doi.org/10.1177/0022002717692652). A second published example of logistic regression.
 
 **Replication exercise: binary outcome models**
 
