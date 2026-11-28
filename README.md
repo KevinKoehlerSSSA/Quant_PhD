@@ -2,7 +2,7 @@
 
 **PhD Human Rights, Global Politics, and International Studies · Sant'Anna School of Advanced Studies · AY 2026/27**
 
-**[Course reader](Course-Reader.pdf)**: the main reading for the course, in plain language, using Goldsmith & Horiuchi (2012) throughout. It currently covers Sessions 1–7 (identification, inference, regression, logistic regression, panel data and multilevel models); a chapter for Session 8 will be added.
+**[Course reader](Course-Reader.pdf)**: the main reading for the course, in plain language, built around four published studies. It covers Sessions 1–8 (identification, inference, regression, logistic regression, panel data, multilevel models and difference-in-differences).
 
 | Instructor | Email |
 |---|---|
@@ -57,7 +57,7 @@ Sessions 6 and 7 are back to back in two different buildings.
 
 ## Readings
 
-The **[course reader](Course-Reader.pdf)** is the main reading for each session. It explains the material in plain language and uses one example throughout Parts I–IV, Goldsmith & Horiuchi (2012), then Acemoglu et al. (2008) for panel data and Gelman & Hill (2007) for multilevel models. The page numbers below refer to the reader. The other readings listed for each session are background: read them to go deeper or to see the same material in the language of the field. A chapter for Session 8 will be added.
+The **[course reader](Course-Reader.pdf)** is the main reading for each session. It explains the material in plain language with four examples, introduced in Section 1: Goldsmith & Horiuchi (2012) throughout Parts I–IV, Acemoglu et al. (2008) for panel data, Gelman & Hill (2007) for multilevel models and Cremaschi et al. (2025) for difference-in-differences. The page numbers below refer to the reader. The other readings listed for each session are background: read them to go deeper or to see the same material in the language of the field.
 
 ---
 
@@ -79,7 +79,7 @@ The **[course reader](Course-Reader.pdf)** is the main reading for each session.
 
 **Main reading**
 
-- [Course reader](Course-Reader.pdf): How to use this guide, Section 1 and Part I (Identification), plus Sections 5–6 of Part II (pp. 6–20).
+- [Course reader](Course-Reader.pdf): How to use this guide, Section 1 and Part I (Identification), plus Sections 5–6 of Part II (pp. 7–25).
 
 **Background readings**
 
@@ -108,7 +108,7 @@ The **[course reader](Course-Reader.pdf)** is the main reading for each session.
 
 **Main reading**
 
-- [Course reader](Course-Reader.pdf): Part II (Inference), Sections 7–10 (pp. 21–32).
+- [Course reader](Course-Reader.pdf): Part II (Inference), Sections 7–10 (pp. 26–38).
 
 **Background readings**
 
@@ -138,7 +138,7 @@ The **[course reader](Course-Reader.pdf)** is the main reading for each session.
 
 **Main reading**
 
-- [Course reader](Course-Reader.pdf): Part III (Regression), Sections 11–12 (pp. 33–37).
+- [Course reader](Course-Reader.pdf): Part III (Regression), Sections 11–12 (pp. 39–43).
 
 **Background readings**
 
@@ -168,7 +168,7 @@ Replication data: [github.com/joshuaalley/cross-sectional-ols](https://github.co
 
 **Main reading**
 
-- [Course reader](Course-Reader.pdf): Part III (Regression), Sections 13–18 (pp. 38–45).
+- [Course reader](Course-Reader.pdf): Part III (Regression), Sections 13–18 (pp. 44–50).
 
 **Background readings**
 
@@ -187,7 +187,7 @@ Replication data: [github.com/joshuaalley/cross-sectional-ols](https://github.co
 
 **Main reading**
 
-- [Course reader](Course-Reader.pdf): Part IV (Logistic regression), Sections 19–27 (pp. 45–59).
+- [Course reader](Course-Reader.pdf): Part IV (Logistic regression), Sections 19–27 (pp. 51–66).
 
 **Background readings**
 
@@ -242,7 +242,7 @@ Gelman, Andrew, and Jennifer Hill. 2007. *Data Analysis Using Regression and Mul
 
 **Main reading**
 
-- [Course reader](Course-Reader.pdf): Part V (Panel data), Sections 28–31 (pp. 60–65), and Part VI (Multilevel data), Sections 38–43 (pp. 72–80). Sections 32–37 (year effects, clustered standard errors, causality) are optional.
+- [Course reader](Course-Reader.pdf): Part V (Panel data), Sections 28–31 (pp. 67–73), and Part VI (Multilevel data), Sections 38–43 (pp. 79–87). Sections 32–37 (year effects, clustered standard errors, causality) are optional.
 
 **Background readings**
 
@@ -270,7 +270,7 @@ Gelman, Andrew, and Jennifer Hill. 2007. *Data Analysis Using Regression and Mul
 
 **Main reading**
 
-- Course reader: Part I (Identification, pp. 8–16) as a refresher, plus a chapter on matching and difference-in-differences (to be added).
+- [Course reader](Course-Reader.pdf): Part VII (Difference-in-differences), Sections 44–51 (pp. 88–97), with Part I (Identification, pp. 13–22) as a refresher.
 
 **Background readings**
 
