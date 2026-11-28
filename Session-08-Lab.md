@@ -4,8 +4,6 @@ Today you replicate the main result of Cremaschi, Rettl, Cappelluti & De Vries (
 
 The data are in [`cremaschi_panel.csv`](cremaschi_panel.csv), prepared from the authors' replication package. It has one row per municipality and national election (2001, 2006, 2008, 2013, 2018).
 
-Work in pairs. After the lab, add one line to your `log.md`: something the agent got wrong, or claimed to have done, and how you caught it.
-
 ---
 
 ## Lab A: replicate the DiD
